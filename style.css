@@ -29,6 +29,7 @@ p{
   display: block;
 transform: rotate(-90deg);
 margin: 50px;
+position: relative;
 }
 
 #switch {
